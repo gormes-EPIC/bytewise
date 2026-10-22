@@ -279,7 +279,7 @@
   },
   {
     "name": "Grand Staircase",
-    "hint": "Two slots in MAIN. Six in P1. A long way to the top.",
+    "hint": "There is no loop tile: a procedure that calls itself at the end repeats forever (see level 10). Put one step of the climb in P1, finish it with P1, and let MAIN start it.",
     "heights": [
       "9....",
       "87...",

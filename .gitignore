@@ -1,3 +1,4 @@
 save.json
 __pycache__/
 .venv/
+/bytewise
